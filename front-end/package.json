@@ -1,0 +1,21 @@
+{
+  "name": "electron-mongodb-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "med",
+  "license": "ISC",
+  "dependencies": {
+    "ajax": "0.0.4",
+    "electron": "^8.5.5",
+    "electron-forge": "^5.2.4",
+    "electron-packager": "^15.2.0",
+    "jquery": "^3.5.1",
+    "mongoose": "^5.9.7",
+    "package": "^1.0.1"
+  }
+}
